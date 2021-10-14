@@ -1,5 +1,3 @@
-
-
 def b2Tob16(value):
   #takes list of 32 bits
   #convert to string
